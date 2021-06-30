@@ -27,7 +27,6 @@ class User {
       this.id = uuid();
     }
   }
-
 }
 
 export { User };
