@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { AuthenticateUserService } from "../repositories/AuthenticateUserService";
+import { AuthenticateUserService } from "../services/AuthenticateUserService";
 
 
 
